@@ -193,10 +193,7 @@
 }
 
 @media (min-width: 768px) {
-    .page-content{
-    margin-top: 14vh;
-    padding-inline: 12px;
-}
+    
     .services-grid {
         grid-template-columns: repeat(2, 1fr);
     }
